@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Waterdrops Exploration
+This repo is for exploration and revisiting Rails.  I also want to make sure my Google Maps API keys still work.  The goal of this repo is only to get re-familiarized with the workings of Rails and to try to make a map show up on a page.
